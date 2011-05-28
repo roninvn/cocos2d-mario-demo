@@ -1,0 +1,7 @@
+{
+    "output":     "coconut-joe.js",
+    "paths": {
+        "coconut/src/" : "/__builtin__/",
+        "src/" : "/"
+    }
+}
